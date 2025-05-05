@@ -1,6 +1,9 @@
 <!--
 [![Build and Tests](https://github.com/gsoTH/Wuerfelspiel/actions/workflows/build-and-test.yml/badge.svg?branch=master)](https://github.com/gsoTH/Wuerfelspiel/actions/workflows/build-and-test.yml)
 -->
+# Mein Projekt ist im folgendem Repository
+# > https://github.com/OptixWolf/Kniffel-cli <
+
 #### Ziele/Kompetenzen :seedling:
 1. Objektorientierte Analyse und Modellierung einsetzen, indem Sie 
 - die die zu implementierenden Strukturen (d.h. die Architektur, den Aufbau) als UML-Klassendiagramm darstellen
